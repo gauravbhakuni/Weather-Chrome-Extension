@@ -1,0 +1,11 @@
+{
+    "name": "Weather Extension",
+    "version": "1.0.0",
+    "description": "Weather Extension for daily use",
+    "manifest_version": 3,
+    "author": "Gaurav Singh Bhakuni",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Weather Extension"
+    }
+}
